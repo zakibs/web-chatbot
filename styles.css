@@ -354,6 +354,8 @@ body.show-emoji-picker em-emoji-picker{
     visibility: visible;
 }
 
+/* CSS for mobile */
+
 @media (max-width: 520px){
     #chatbot-toggler{
         right: 20px;
