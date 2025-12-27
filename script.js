@@ -7,7 +7,7 @@ const fileCancelButton = document.querySelector("#file-cancel");
 const chatbotToggler = document.querySelector("#chatbot-toggler");
 const closeChatbot = document.querySelector("#close-chatbot");
 
-const API_KEY = "your api";
+const API_KEY = "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";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
 
 const userData = {
